@@ -175,20 +175,20 @@ hr {
     display: block;
     position: relative;
     text-align:left;
-    margin-left: .8em;
+    margin-left: .8rem;
     width: 55%;
     height: 50%;
     color: white;
 }
 
 .txtdv h1 {
-    font-size: 2em;
+    font-size: 2rem;
     font-weight: 600;
     color: white;
 }
 
 .txtdv h4 {
-    font-size: 1em;
+    font-size: 1rem;
     font-weight: 400;
     color: white;
 }
@@ -196,7 +196,7 @@ hr {
 .txtdv p {
     line-height: 1.6;
     letter-spacing: .01rem;
-    font-size: .8em;
+    font-size: .8rem;
     font-weight: 300;
     color: white;
 }
